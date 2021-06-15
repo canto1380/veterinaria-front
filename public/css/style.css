@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background: #AA076B; 
+    background: -webkit-linear-gradient(to right, #61045F, #AA076B);  
+    background: linear-gradient(to right, #61045F, #AA076B); 
+    font-size: 1.6rem;
+}
