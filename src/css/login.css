@@ -1,0 +1,18 @@
+.box-login{
+    background-color: white;
+}
+
+.btn-google{
+    background-color: #DB402C;
+    border: 0px;
+}
+.btn-google:hover{
+    background-color: rgba(4, 4, 4, 0.426);
+}
+.btn-facebook:hover{
+    background-color: rgba(4, 4, 4, 0.426);
+}
+.btn-facebook{
+    background-color: #3B5998;
+    border: 0px;
+}
